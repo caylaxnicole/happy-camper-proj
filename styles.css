@@ -1,0 +1,87 @@
+.navbar {
+  background-color: #4D2E7C;
+  padding-right: 50px;
+  padding-left: 50px;
+}
+
+.navbar-brand {
+  padding-left: 60px;
+}
+
+.nav-link{
+  color: white;
+}
+
+.nav-item {
+  font-family:'Montserrat', sans-serif;
+}
+
+.col {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.section4 {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #4D2E7C;
+  color: white;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.section2 {
+  font-family: 'Montserrat', sans-serif;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.section3 {
+  background-color: #01A2DF;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  padding-right: 70px;
+  padding-left: 70px;
+}
+
+.section5 {
+  font-family: 'Montserrat', sans-serif;
+  padding-right: 70px;
+  padding-left: 70px;
+}
+
+.section6 {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #4D2E7C;
+  color: white;
+  padding-right: 70px;
+  padding-left: 100px;
+}
+
+h4 {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.btn {
+  background-color: #01A2DF;
+  color: white;
+}
+
+.logo {
+  padding-bottom: 20px;
+
+}
+
+.section7 {
+  font-family: 'Montserrat', sans-serif;
+  color: white;
+  padding-left: 50px;
+  padding-top: 40px;
+  padding-bottom: 250px;
+  background-image: url(https://www.happycamperlive.com/footer-bg.e27bc8117e2b4a89da4e.png);
+  background-position: 0 -300%;
+}
+
+video {
+  height: 800px;
+  width: 100%;
+}
