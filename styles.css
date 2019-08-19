@@ -20,6 +20,10 @@
   font-family: 'Montserrat', sans-serif;
 }
 
+.col-sm {
+  text-align: center;
+}
+
 .section4 {
   font-family: 'Montserrat', sans-serif;
   background-color: #4D2E7C;
@@ -30,8 +34,14 @@
 
 .section2 {
   font-family: 'Montserrat', sans-serif;
+  color: white;
   padding-right: 100px;
+  padding-top: 60px;
   padding-left: 100px;
+  padding-bottom: 100px;
+  background: url(https://lh3.googleusercontent.com/s7J1NFdUHLViqA369FBKiPNNNT88e69jmsw785AdHCk6Cl_-U2A-VAjBVP05Tua7NE_S0Q5HGbNxoPPmqccOIYVy8y3-gmSBhNcdbDz4frOg-X8P5ySacvAeHfe-Q3W0HJUIM9wO789ldr_W0WgQfx2aXgKeRLhkNnXh4nTZsaSg8_OXOjHs3DCK7IAWaVSArj6haF9lU17ORp__dbopsCe4_j4OxiWEAtgDUHPONEP9f_URjhWk-I8bKKhgvl8I4PEJPpUIUC6LJbuO1C4xEjn9gYofRhoEXdMWoY512w54Z5dyUfluQ0GzUHm-k3vFJUWKj12URtiXjyMCoGVaT3d8Bhzzo6-sZ82zrXhZPHR1YIVIsGAOWRU3ub9wmzo9pWSYwq0yEb_Af2O8BoMSaD1-53yAn0jsQdgtw4gItsZjy7IyGwfYDi73BPXuMf3VGxojBUCjnZAfMRX4Z5dyS-HH2vUgJqZPQItjdGJ9k-I1SLgNhffLQ4GfAd2JtcRJPrwwGxGFJlGXUjhvlLIzz8KegAI3wWLX0j5aT_77H_8IoQSyPW3ph-9orNG0UbjPiQyLkNIxypm1HcHGHtOGBQx8Wki0mZ1MStEBnjAE17n8HC0xpTmBwQJ5Zi5qOTt6MMieJvTyAlgFPCPkvSuaGMwUrjEbHMG0=w2648-h826-no);
+  background-repeat: no-repeat;
+  background-size: 1500px 450px;
 }
 
 .section3 {
@@ -46,6 +56,7 @@
   font-family: 'Montserrat', sans-serif;
   padding-right: 70px;
   padding-left: 70px;
+  padding-top: 20px;
 }
 
 .section6 {
@@ -65,6 +76,7 @@ h4 {
   background-color: #01A2DF;
   color: white;
 }
+
 
 .logo {
   padding-bottom: 20px;
