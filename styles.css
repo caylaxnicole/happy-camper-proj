@@ -1,3 +1,7 @@
+body {
+  font-family:'Montserrat', sans-serif;
+}
+
 .navbar {
   background-color: #4D2E7C;
   padding-right: 50px;
@@ -17,20 +21,17 @@
 }
 
 .nav-item {
-  font-family:'Montserrat', sans-serif;
   font-size: 18px;
 }
 
-.col {
-  font-family: 'Montserrat', sans-serif;
-}
+
 
 .col-sm {
   text-align: center;
 }
 
 .section4 {
-  font-family: 'Montserrat', sans-serif;
+
   background-color: #4D2E7C;
   color: white;
   padding-right: 100px;
@@ -38,7 +39,6 @@
 }
 
 .section2 {
-  font-family: 'Montserrat', sans-serif;
   color: white;
   padding-right: 100px;
   padding-top: 60px;
@@ -52,13 +52,12 @@
 .section3 {
   background-color: #01A2DF;
   color: white;
-  font-family: 'Montserrat', sans-serif;
   padding-right: 70px;
   padding-left: 70px;
+  text-align: left;
 }
 
 .section5 {
-  font-family: 'Montserrat', sans-serif;
   padding-right: 70px;
   padding-left: 70px;
   padding-top: 20px;
@@ -66,7 +65,6 @@
 }
 
 .section6 {
-  font-family: 'Montserrat', sans-serif;
   background-color: #4D2E7C;
   color: white;
   padding-right: 70px;
@@ -91,7 +89,6 @@ h4 {
 }
 
 .section7 {
-  font-family: 'Montserrat', sans-serif;
   color: white;
   padding-left: 50px;
   padding-top: 40px;
@@ -106,7 +103,6 @@ video {
 }
 
 button {
-  font-family: 'Montserrat', sans-serif;
   background-color: #01A2DF;
   color: white;
   border: none;
@@ -125,7 +121,6 @@ ul {
 
 .section9{
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
   background-color: #4D2E7C;
   font-size: 25px;
   padding: 40px 20px 40px 20px;
@@ -137,7 +132,6 @@ a.linkys:link{
 
 footer{
   text-align: center;
-  font-family: 'Montserrat', sans-serif;
   color: black;
 }
 
@@ -150,3 +144,23 @@ a.ftlnk2:link{
 color:black;
 }
 
+.pic3 {
+  background-image: url(https://lh3.googleusercontent.com/JdJvuQsACFN-FOF2Wy9WxSQechC8Wds3No08gamz6yygbEOf26XiH2NbXI-2uxKoKuopyUNqJXNosrr0VaJF-aD8ncrqL6GVascQvP-18RLKFVLDhCuunjfRzFcIXxpaJQ8OvBiPxm51686A2QKXore2nwcwChCeoG5Nt3C63XDHR1-6aB5YIdgiGSvX7xHn_rX1dydWFpMaLt8hVOVKwkUZY1WHxZ8QDYaUAZM94uFGkZFPK0JpmbpVRUdu-ojgnHagqANtn3etlCRBjhGhS-eCC5y81iH6bgD93YttSS2uPWHZu3tBiftb1vil4ufubQksNLJxTTBLrpqcl8ecAVFOzEHGxXJyfaYpQxwoSfbpjUvq-2TuvyEIVRYhcWI-OxlKIOMbLESQ6lbmcAePtq2t9-SUojnawwDACelfMPo0H_ZdlUpgKFTrR40sWGNCDUWU-Whke8k-JzikW9Nhjdmk4G5CezD_TDU2Ickyhdhgyla1tzI4SS7RbQVdgMJZY1T8SNktKXHio06ZQmQPp1PBo3BKJMa61wuaNYUO8MPQTLPHSFtvyQFyH2447EyFzlccy4GZFkEj22hNqIwLM6O6KY4_GdwbOTwC7Zd08Dza4IE0hmXN-jlISds-bsN9lpUccFlVvocDeCC--2GN-FGgn36QJd3N=w772-h386-no);
+  background-size: 400px;
+  width: 350px;
+  height: 200px; 
+}
+
+.pic2 {
+   background-image: url(https://lh3.googleusercontent.com/R_HhCDReuYbqcVCYIBoov6Is75arQBAIdzbHUJ7iwdjOLuK1tZTcHDiqyalTt8cid2Msqw-qMBlbczjIUfl2u9K2EWIhvei87X8qJHArOL98uOsIlkbr52DKeQhNoOkyDUKvRFcBbSwP58qo_UDVDyIPiHwWkkt7wXJZa8RtvWV0xwjIMmtIWyieN8r3fcMw0_n8_9v4_7Aep5EjqW5jLvAdYuAuCrCLpJpfUadd2O37mRQeULTMRFbXI6tobgmoNDI2ge8TNHPMofwdj3BZ1tAux3Ioy-sM8J0qxLPPcrPwAdtImYoj4N-PsfpXysxbNucmNBl0xdOhXaElfuArmNFK66oFqwmN-EBMs3Bh7PvE1s0aWMPMYrrogAQJPyhkfFqXPR542WhPkCdwxVPOD8hW5VzT7nRTCeczbbm904AUxwFRREyTS79Nw9TSh_y7-QHOT946jOvfTw68wWHa172roDJiGRI_Mq3ar3paBUq--qCaLCW3MnVNwXNWtND3tQlScRKGGCfJkwufy7ZNqhdU8sQpbpdEc8QxUv3H6ezOipLRgXw1r0V5WvHtDbFHre3WcAZ3dBZIVB2mlCn4kKzNbMNqphsn5kXgvmnSQFhpMT3Ja3Z3qm6hhxXLYoTBPFJJNna8uT5xCKQaseypR7c3T8ILrOmg=w772-h388-no);
+  background-size: 400px;
+  width: 350px;
+  height: 200px; 
+}
+
+.pic1 {
+  background-image: url(https://lh3.googleusercontent.com/2daNbAj_5gYnTbKR4x9vG7FM9HJ06JTa3Qqm3pkqR3zMpundh607qHQMVNv9L7N5gURgXT7kizZkMi2z5sDJ975ypcvrjPSK2TdowBfp8OwD-fqJZ702oxvXdDX-qRM9K7xrK9hJ23Ii9G-AGbbIOD8bCgCOiXWWBDFd3SoZlwPKMnDP2sXQpUWrEzUkF8qobplJMs5IlpydrBkVNCQkeO1NjzJJhsBUCYLK0eo_Cmkz0C91XRw9qE-lSC9-ChfsUAAoWe2WXljr6t6t63BCQ5uZbA3NOoHKjvhIfXZ6eQUJ_S_IOp7zFw8ZleNC4-GUa-lyizRiWbvXrV5MCCAgOLimXpMzwZLEawnLBwPltYEK5AGoKopl0IQdYlAX49_LyAIqwdPQXB-QjyGzpXwPBMcyzH3z3Tl7rLF9L0eR4AZyasYUN6g_LB1atXjYsSs9Fg6s9NXTWF4E6iqqkA0A0zJjpZfeq2gMOn_AxE0Csn-wNjD5HKRB_m2wIfL8ky5ZmRKWGlkCL43VJXnbG4JYip-O2XcVIA9DpE_gFzhHh9qdfcUhQsHKQP9RxP6X2RgUeW_uOOITASzTVCgQ0T9VoUmnpgOzew6tu9Dxc28R8Vruv070EYb4h36xaQQoSbEmHfw5i8-8ZdDp_H1GHwlSw-BKTWWFyzAR=w772-h392-no);
+  background-size: 400px;
+  width: 350px;
+  height: 200px; 
+}
